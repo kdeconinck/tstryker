@@ -9,6 +9,6 @@ public sealed class SumTests
     {
         var x = Sum.Invoke(10, 20);
 
-        Assert.Equal(30, x);
+        Assert.Equal(40, x);
     }
 }
